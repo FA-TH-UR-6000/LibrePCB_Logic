@@ -1,0 +1,10 @@
+(librepcb_package_category 28b3a36b-bb4a-4aed-bdaf-99dea05f1c85
+ (name "QUAD_GATE")
+ (description "")
+ (keywords "logic, QUAD")
+ (author "engineer")
+ (version "0.1")
+ (created 2024-01-23T15:58:40Z)
+ (deprecated false)
+ (parent edc63ee6-ea87-495d-a6b9-54536fe8b1f9)
+)

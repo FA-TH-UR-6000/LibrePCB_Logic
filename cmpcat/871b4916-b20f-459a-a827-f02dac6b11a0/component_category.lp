@@ -1,0 +1,10 @@
+(librepcb_component_category 871b4916-b20f-459a-a827-f02dac6b11a0
+ (name "JK")
+ (description "JK Flip Flop")
+ (keywords "jk, ic, logic")
+ (author "engineer")
+ (version "0.1")
+ (created 2024-03-14T09:48:49Z)
+ (deprecated false)
+ (parent f4abe9d8-20b1-4818-a007-0f1b527e621d)
+)

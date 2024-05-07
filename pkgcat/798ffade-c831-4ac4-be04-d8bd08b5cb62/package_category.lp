@@ -1,0 +1,10 @@
+(librepcb_package_category 798ffade-c831-4ac4-be04-d8bd08b5cb62
+ (name "555_TIMER")
+ (description "General Purpose CMOS Timer")
+ (keywords "digital, ic, 555, timer")
+ (author "engineer")
+ (version "0.1")
+ (created 2024-02-22T10:45:03Z)
+ (deprecated false)
+ (parent edc63ee6-ea87-495d-a6b9-54536fe8b1f9)
+)

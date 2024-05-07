@@ -1,0 +1,10 @@
+(librepcb_component_category b670d367-1e9f-40f8-a844-149a9ce47613
+ (name "QUAD_GATE")
+ (description "Generic IC logic gate with 4 independent systems.")
+ (keywords "logic, QUAD")
+ (author "engineer")
+ (version "0.1")
+ (created 2024-01-23T15:57:29Z)
+ (deprecated false)
+ (parent 8e4af7b5-cbff-4409-9698-f2b545218075)
+)

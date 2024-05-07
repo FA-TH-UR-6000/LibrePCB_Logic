@@ -1,0 +1,17 @@
+(librepcb_package d03366b2-7c1f-422f-9e29-d80e35dd5811
+ (name "8_BIT_SHIFT_REGISTER")
+ (description "8 Bit shift register with 3 state output, seperate shift and storage register")
+ (keywords "shift register, register, ic")
+ (author "engineer")
+ (version "0.1")
+ (created 2024-03-01T17:36:53Z)
+ (deprecated false)
+ (generated_by "")
+ (category f89858ce-226f-4f30-aa8c-b3cec8bcf5d3)
+ (assembly_type auto)
+ (footprint 428c4486-9cf5-41c5-b113-c3357e792554
+  (name "default")
+  (description "")
+  (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
+ )
+)

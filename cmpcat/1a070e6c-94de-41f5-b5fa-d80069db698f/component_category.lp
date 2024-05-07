@@ -1,0 +1,10 @@
+(librepcb_component_category 1a070e6c-94de-41f5-b5fa-d80069db698f
+ (name "DFF")
+ (description "Data Flip FLop")
+ (keywords "DFF, logic, ic")
+ (author "engineer")
+ (version "0.1")
+ (created 2024-03-14T09:48:00Z)
+ (deprecated false)
+ (parent f4abe9d8-20b1-4818-a007-0f1b527e621d)
+)

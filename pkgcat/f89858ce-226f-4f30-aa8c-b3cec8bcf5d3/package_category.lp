@@ -1,0 +1,10 @@
+(librepcb_package_category f89858ce-226f-4f30-aa8c-b3cec8bcf5d3
+ (name "SHIFT_REGISTER")
+ (description "Generic shift register")
+ (keywords "shift register, register, ic")
+ (author "engineer")
+ (version "0.1")
+ (created 2024-03-01T17:35:41Z)
+ (deprecated false)
+ (parent edc63ee6-ea87-495d-a6b9-54536fe8b1f9)
+)
