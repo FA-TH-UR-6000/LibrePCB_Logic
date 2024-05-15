@@ -6,7 +6,7 @@
  (version "0.5")
  (created 2019-07-31T15:12:36Z)
  (deprecated false)
- (url "https://github.com/ouabache/LibrePCB_Logic.lplib")
+ (url "https://github.com/PaulSawyer0/LibrePCB_Logic")
  (dependency a9ddf0c6-9b1c-4730-b300-01b4f192ad40)
  (manufacturer "")
 )

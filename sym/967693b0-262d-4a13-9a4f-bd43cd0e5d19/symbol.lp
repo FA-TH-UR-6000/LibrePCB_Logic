@@ -1,5 +1,5 @@
 (librepcb_symbol 967693b0-262d-4a13-9a4f-bd43cd0e5d19
- (name "14_BIT_BINARY_COUNTER")
+ (name "12_BIT_BINARY_COUNTER")
  (description "Generic 14 Bit counter")
  (keywords "14 Bit, counter")
  (author "engineer")
